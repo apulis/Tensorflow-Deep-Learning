@@ -7,8 +7,7 @@ anything if supported by the `Tensorflow`.
 ## Introduction to Siamese Architecture
 
 In the recent years, a great amount of research in the
-computer vision and pattern recognition area has been ded-
-icated to biometrics whose assumption is the uniqueness of
+computer vision and pattern recognition area has been dedicated to biometrics whose assumption is the uniqueness of
 people's identity. An important application of biometrics is
 the problem of face verification. One of the applications,
 for instance, is whether the designed system can recognize
